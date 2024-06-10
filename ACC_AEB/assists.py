@@ -112,7 +112,7 @@ def find_lowest_average(data):
     
 def edgeDetecting(readings):
     readingsLen = len(readings)
-    theshould = 10
+    theshould = 1
     for i in range(0, readingsLen):
         try:
             Element1 = float(readings[i][0])
