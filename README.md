@@ -3,8 +3,8 @@
 ## this repo contains mobile application connected with esp32 car from mobile to control ADAS modules: ACC/AEB/LDWS/LKAS/Drowsy Detection
 
 ## Mobile APP
-### upload esp32 code 
-### setup ADASDriver.apk on android device
+1- upload esp32 code 
+2- setup ADASDriver.apk on android device
 
 ## ACC and AEB
 this contains ros nodes for making ACC and AEB
